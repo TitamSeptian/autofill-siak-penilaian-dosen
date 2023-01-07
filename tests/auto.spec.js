@@ -4,6 +4,7 @@ const allQuetions = 20;
 const allMatkul = 8; // sesuaikan dengan matkul yang di ambil
 // saran lebih baik tidak auto
 const saranByMatkul = [
+    // ngurut dari atas ke bawah di web kuesioner nya
     'tugas yang di berikan kadang kesan seperti "ini buat apasi"', // matkul 1
     'tugas yang di berikan kadang kesan seperti "ini buat apasi"', // matkul 2
     "jangan lupa upload materi di spot bu, sama toleransi yang telat cuman 10 menit", // matkul 3
