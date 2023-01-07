@@ -5,14 +5,14 @@ const allMatkul = 8; // sesuaikan dengan matkul yang di ambil
 // saran lebih baik tidak auto
 const saranByMatkul = [
     // ngurut dari atas ke bawah di web kuesioner nya
-    'tugas yang di berikan kadang kesan seperti "ini buat apasi"', // matkul 1
-    'tugas yang di berikan kadang kesan seperti "ini buat apasi"', // matkul 2
-    "jangan lupa upload materi di spot bu, sama toleransi yang telat cuman 10 menit", // matkul 3
-    "kejelasan tugas kurang jelas", // matkul 4
-    "komunikasi adalah kunci utama, jadi fast respon ya bu", // matkul 5
-    "best dosen semester ini", // matkul 6
-    "over all enak cara mengajar", // matkul 7
-    "kebanyakan luring untuk bobot kuliah yang bisa di daringkan", // matkul 8
+    'Mantap, cara ngajarnya enak"', // matkul 1
+    'Mantap, cara ngajarnya enak"', // matkul 2
+    'Mantap, cara ngajarnya enak"', // matkul 3
+    'Mantap, cara ngajarnya enak"', // matkul 4
+    'Mantap, cara ngajarnya enak"', // matkul 5
+    'Mantap, cara ngajarnya enak"', // matkul 6
+    'Mantap, cara ngajarnya enak"', // matkul 7
+    'Mantap, cara ngajarnya enak"', // matkul 8
 ];
 test.describe("Auto", () => {
     for (let j = 0; j < allMatkul; j++) {
