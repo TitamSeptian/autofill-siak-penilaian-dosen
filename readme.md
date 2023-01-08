@@ -7,7 +7,7 @@ $ cp .env-example .env
 isi nim dan password di .env file
 
 ```
-$ npm install
+$ yarn install
 $ npx playwright install chromium
 $ npx playwright test
 ```
