@@ -1,4 +1,10 @@
-# How to install
+# How to use
+
+```
+$ cp .env-example .env
+```
+
+isi nim dan password di .env file
 
 ```
 $ npm install
